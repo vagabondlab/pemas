@@ -1,2 +1,2 @@
-# ravans
-Respiratory-gated Auricular Vagal Afferent Nerve Stimulation (RAVANS)
+# Brain-GIP
+Brain-Gut Interface Processing
