@@ -1,2 +1,2 @@
-# Brain-GIP
-Brain-Gut Interface Processing
+# PEMAS
+Pipeline for Extricating Movement from Auricular Stimules
