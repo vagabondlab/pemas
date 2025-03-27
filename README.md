@@ -1,5 +1,6 @@
 # PEMAS Pipeline
 <img width="829" alt="Screenshot 2025-03-27 at 14 28 19" src="https://github.com/user-attachments/assets/fea5bd09-970d-4739-b7d0-77dc27aa9414" />
+
 Pipeline for Extricating Movement from Auricular Stimules (PEMAS). This repository contains code and scripts for analyzing 7T fMRI data acquired during a Respiratory-gated Auricular Vagal Afferent Nerve Stimulation (RAVANS) task and resting-state scans. The pipeline uses tools from Slocco's Laboratory, fMRIPrep, and FSL to preprocess data, regress physiological noise, and perform statistical analysis.
 
 ## Data and Preprocessing
