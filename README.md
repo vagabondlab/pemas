@@ -41,6 +41,12 @@ Pipeline for Extricating Movement from Auricular Stimules (PEMAS). This reposito
 * phycorr
 * Bash
 
+## Proprietary Mentions
+
+
+* This project builds upon base code and functions provided by the Slocco Laboratory at Spaulding Rehabilitation Hospital (Lizbeth Ayoub, Andrew Bolender, and Roberta Slocco). 
+
+
 ## Usage
 
 Follow the numbered scripts and MATLAB functions in sequence to execute the analysis pipeline. Ensure that the necessary software and dependencies are installed and configured correctly.
