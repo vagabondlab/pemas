@@ -4,7 +4,7 @@ Pipeline for Extricating Movement from Auricular Stimules (PEMAS). This reposito
 ## Data and Preprocessing
 
 * **Data Source:** 7T fMRI data collected during RAVANS task and resting-state. Physiological recordings (heartbeat and respiration) were acquired for noise regression.
-* **Pipeline Foundation:** The code is based on a pipeline provided by Slocco's Laboratory (Roberta Slocco, and others).
+* **Pipeline Foundation:** The code is based on a pipeline provided by Slocco's Laboratory ((Lizbeth Ayoub, Andrew Bolender, and Roberta Slocco)).
 * **Physiological Noise Correction:**
     * `phycorr` (RETROICOR and R-DECO) will be used to regress physiological noise.
 * **fMRIPrep:**
