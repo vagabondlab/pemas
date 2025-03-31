@@ -25,7 +25,7 @@ Pipeline for Extricating Movement from Auricular Stimules (PEMAS). This reposito
 2.  **Motion Regressor Preparation:**
     * `2_FD_FEAT_headmotion.sh` processes the aCompCor motion parameter tables to generate text files containing regressors for FSL's FEAT.
 3.  **Stimulus Extraction:**
-    * `stem_trigger_newvariables_final_final.m` extracts stimulus timing information for FEAT input.
+    * `stem_trigger.m` extracts stimulus timing information for FEAT input.
 4.  **FEAT First-Level Analysis:**
     * FSL's FEAT is used for first-level analysis, incorporating the preprocessed BOLD data, motion regressors, and stimulus timing.
 5.  **FEAT Output Fusion:**
